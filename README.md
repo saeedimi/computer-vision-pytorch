@@ -2,7 +2,7 @@
 
 A collection of practical computer vision projects implemented using **PyTorch**. This repository covers the fundamentals of Convolutional Neural Networks (CNNs), transfer learning with pretrained models, and real-world image classification applications. Each notebook has been reorganized, documented, and expanded to serve as a technical portfolio demonstrating modern deep learning workflows for computer vision.
 
-![CNN Architecture](images/CNN.png)
+![CNN Architecture](Images/CNN.png)
 
 ---
 
