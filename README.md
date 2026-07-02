@@ -51,12 +51,15 @@ computer-vision-pytorch/
 ├── requirements.txt
 ├── .gitignore
 │
-├── 01_cnn_fundamentals.ipynb
-├── 02_transfer_learning.ipynb
-├── 03_hand_gesture_recognition.ipynb
+├── notebooks/
+│   ├── 01_cnn_fundamentals.ipynb
+│   ├── 02_transfer_learning.ipynb
+│   └── 03_hand_gesture_recognition.ipynb
+│
+├── images/
+│   └── CNN.png
 │
 ├── datasets/
-├── images/
 └── models/
 ```
 
