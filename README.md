@@ -2,7 +2,7 @@
 
 A collection of practical **Computer Vision** projects implemented using **PyTorch**. This repository covers the fundamentals of Convolutional Neural Networks (CNNs), transfer learning with pretrained models, and real-world image classification applications. Each notebook has been reorganized, documented, and expanded to demonstrate modern deep learning workflows for computer vision.
 
-![CNN Architecture](images/CNN.png)
+![CNN Architecture](Images/CNN.png)
 
 ---
 
@@ -110,7 +110,7 @@ This notebook introduces the core concepts of Convolutional Neural Networks (CNN
 
 This notebook demonstrates transfer learning for image classification using pretrained convolutional neural networks in PyTorch. It explores feature extraction with AlexNet, visualizes learned representations, applies transfer learning to image datasets, and investigates techniques for improving model generalization, including data normalization, data augmentation, weight decay, and dropout.
 
-![CNN Architecture](images/TR.png)
+![CNN Architecture](Images/TR.png)
 
 ### Topics Covered
 
