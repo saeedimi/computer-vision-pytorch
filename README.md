@@ -133,9 +133,12 @@ This notebook demonstrates transfer learning for image classification using pret
 
 ## Notebook 3 — Hand Gesture Recognition
 
+![Hand Gesture Recognition](images/hand_gesture_recognition.png)
+
 ### Overview
 
-This notebook presents an end-to-end hand gesture recognition pipeline using convolutional neural networks in PyTorch. It covers dataset preprocessing, model training, performance evaluation, and prediction on unseen images while demonstrating a complete deep learning workflow for image classification.
+This notebook demonstrates an end-to-end deep learning workflow for recognizing American Sign Language (ASL) hand gestures using convolutional neural networks and transfer learning with AlexNet.
+
 
 ### Topics Covered
 
