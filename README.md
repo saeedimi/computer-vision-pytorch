@@ -133,7 +133,7 @@ This notebook demonstrates transfer learning for image classification using pret
 
 ## Notebook 3 — Hand Gesture Recognition
 
-![Hand Gesture Recognition](Images/asl-alphabet.jpg
+![Hand Gesture Recognition](Images/asl-alphabet.jpg)
 
 ### Overview
 
